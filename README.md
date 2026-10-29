@@ -26,7 +26,9 @@ Jeg følger en fast studieplan med fem fag, og det er lett å *tro* at man har s
 - Timeren regner ut gjenværende tid fra et **sluttidspunkt** i stedet for å telle ned ett og ett sekund. Derfor går den riktig selv om fanen ligger i bakgrunnen (der nettleseren bremser JavaScript-timere), og selv om siden lastes på nytt midt i en økt.
 
 ## Kjøre appen
-Åpne `index.html` i en nettleser, eller bruk demolenken.
+**Demo:** https://iitsmokk.github.io/StudieKlokka/
+
+Eller åpne `index.html` direkte i en nettleser.
 
 ## Hvordan AI ble brukt
 Hele appen er laget med Claude (Anthropic) i samtale på norsk:
